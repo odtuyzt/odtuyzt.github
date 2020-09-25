@@ -1,4 +1,4 @@
-
+<link rel="icon" href="/logo.ico" type="image/x-icon" />
 
 ### Prensiplerimiz
 
