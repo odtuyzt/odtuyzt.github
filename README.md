@@ -7,8 +7,11 @@ ODTÜ Yapay Zeka Topluluğu (YZT) ODTÜ öğrencilerinin, üniversitenin “yeni
 ### Prensiplerimiz
 
 **İnovasyon**: YZT projelerinde ve iç yönetiminde,  başarı yolunda en yenilikçi metotları uygular. Yenilikçilik ve istikrarlılık arasındaki denge gözetilir.
+
 **Sorumluluk**: YZT yapay zeka teknolojilerini sorumlu bir biçimde kullanır. Geliştirilen projelerin ODTÜ etik değerleri doğrultusunda kullanılmasını amaçlar.
+
 **Açıklık**: YZT projelerini herkese açık bir biçimde geliştirir. İç yönetim şeffaftır ve her kararının hesabını verebilecek bir konumdadır.
+
 **Verimlilik**: YZT yaptığı her işte kaynaklarını en verimli şekilde kullanarak istenilen sonucu elde etmeyi hedefler. 
 
 ### Organizasyonumuz
