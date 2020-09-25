@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## ODTÜ Yapay Zeka Topluluğu Tanıtımı
 
-You can use the [editor on GitHub](https://github.com/odtuyzt/odtuyzt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Bir Cümlede YZT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ODTÜ Yapay Zeka Topluluğu (YZT) ODTÜ öğrencilerinin, üniversitenin “yenilikçilik ve öncülük” değerinin ışığında, günümüzün en önemli teknolojisi olan yapay zekayı (YZ) kullanarak ve okulun etik değerleri göz önüne alarak sağlıktan robotiğe geniş bir yelpazede uygulanabilir projeler geliştirdiği, alanın akademik ve endüstriyel takibini yaptığı ve bu doğrultuda bilgi paylaşımında bulunduğu bir topluluktur. 
 
-### Markdown
+### Prensiplerimiz
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**İnovasyon**: YZT projelerinde ve iç yönetiminde,  başarı yolunda en yenilikçi metotları uygular. Yenilikçilik ve istikrarlılık arasındaki denge gözetilir.
+**Sorumluluk**: YZT yapay zeka teknolojilerini sorumlu bir biçimde kullanır. Geliştirilen projelerin ODTÜ etik değerleri doğrultusunda kullanılmasını amaçlar.
+**Açıklık**: YZT projelerini herkese açık bir biçimde geliştirir. İç yönetim şeffaftır ve her kararının hesabını verebilecek bir konumdadır.
+**Verimlilik**: YZT yaptığı her işte kaynaklarını en verimli şekilde kullanarak istenilen sonucu elde etmeyi hedefler. 
 
-```markdown
-Syntax highlighted code block
+### Organizasyonumuz
 
-# Header 1
-## Header 2
-### Header 3
+YZT içinde ikiye ayrılır: ARGE grubu ve eğitim grubu.
+ARGE grubu tecrübeli YZT üyelerinden oluşur. Bu üyeler:
+- proje liderliği, takım kaptanlığı gibi kıdemli rollerde bulunurlar. 
+- yapılacak projelerin belirlenmesine, eğitim müfredatının hazırlanmasına katkıda bulunurlar.
+- topluluğun yönetiminde yer alabilirler.
+- eğitim grubu üyelerine mentörlük yaparlar.
+Eğitim grubu üyeleri seçtikleri müfredat doğrultusunda eğitim alırlar ve eğitimin sonunda sertifika almaya hak kazanırlar. Başarılı üyeler ARGE grubuna katılabilirler.
 
-- Bulleted
-- List
+### Etkinliklerimiz
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/odtuyzt/odtuyzt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Türkiye ve dünyadaki YZ ve VB yarışmalarına katılmak
+2. YZ projeleri geliştirmek
+3. Sertifikalı eğitim programları hazırlamak ve bu eğitimi vermek
+4. Kaliteli Türkçe YZ içeriği üretmek
+5. Makale ve kitap okumaları yapmak
+6. Endüstri ve akademi takibi yapmak
+7. Türkiye YZ raporu hazırlamak
