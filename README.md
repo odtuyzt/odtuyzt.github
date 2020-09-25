@@ -1,5 +1,5 @@
 
-[logo]
+[](/logo.png)
 
 ### Bir Cümlede YZT
 
@@ -39,8 +39,8 @@ Eğitim grubu üyeleri seçtikleri müfredat doğrultusunda eğitim alırlar ve 
 
 YZT hala kuruluş aşamasında bir topluluktur. Eğer siz de çekirdek kadromuza katılmak isterseniz lütfen odtuyzt@gmail.com adresine mail atın.
 
-ODTÜ YZ çalışma grubumuza katılın: https://t.me/odtuyz 
+ODTÜ YZ çalışma grubumuza katılın: [https://t.me/odtuyz](https://t.me/odtuyz)
 
-Instagram'dan takip edin: https://www.instagram.com/odtuyzt/
+Instagram'dan takip edin: [https://www.instagram.com/odtuyzt/](https://www.instagram.com/odtuyzt/)
 
 
