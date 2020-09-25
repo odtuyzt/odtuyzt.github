@@ -1,3 +1,6 @@
+
+[logo]
+
 ### Bir Cümlede YZT
 
 ODTÜ Yapay Zeka Topluluğu (YZT) ODTÜ öğrencilerinin, üniversitenin “yenilikçilik ve öncülük” değerinin ışığında, günümüzün en önemli teknolojisi olan yapay zekayı (YZ) kullanarak ve okulun etik değerleri göz önüne alarak sağlıktan robotiğe geniş bir yelpazede uygulanabilir projeler geliştirdiği, alanın akademik ve endüstriyel takibini yaptığı ve bu doğrultuda bilgi paylaşımında bulunduğu bir topluluktur. 
@@ -29,5 +32,15 @@ Eğitim grubu üyeleri seçtikleri müfredat doğrultusunda eğitim alırlar ve 
 3. Sertifikalı eğitim programları hazırlamak ve bu eğitimi vermek
 4. Kaliteli Türkçe YZ içeriği üretmek
 5. Makale ve kitap okumaları yapmak
-6. Endüstri ve akademi takibi yapmak
+6. Endüstri ve akademi takibi yapmak 
 7. Türkiye YZ raporu hazırlamak
+
+### Bize Katılın
+
+YZT hala kuruluş aşamasında bir topluluktur. Eğer siz de çekirdek kadromuza katılmak isterseniz lütfen odtuyzt@gmail.com adresine mail atın.
+
+ODTÜ YZ çalışma grubumuza katılın: https://t.me/odtuyz 
+
+Instagram'dan takip edin: https://www.instagram.com/odtuyzt/
+
+
