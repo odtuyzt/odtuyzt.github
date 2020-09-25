@@ -1,6 +1,4 @@
 
-![](\logo.png)
-
 
 ### Prensiplerimiz
 
@@ -39,5 +37,8 @@ YZT hala kuruluş aşamasında bir topluluktur. Eğer siz de çekirdek kadromuza
 ODTÜ YZ çalışma grubumuza katılın: [https://t.me/odtuyz](https://t.me/odtuyz)
 
 Instagram'dan takip edin: [https://www.instagram.com/odtuyzt/](https://www.instagram.com/odtuyzt/)
+
+![](\logo.png)
+
 
 
