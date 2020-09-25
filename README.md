@@ -1,5 +1,5 @@
 
-[](/logo.png)
+[](logo.png)
 
 ### Bir Cümlede YZT
 
