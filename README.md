@@ -40,6 +40,8 @@ ODTÜ YZ çalışma grubumuza katılın: [https://t.me/odtuyz](https://t.me/odtu
 
 Instagram'dan takip edin: [https://www.instagram.com/odtuyzt/](https://www.instagram.com/odtuyzt/)
 
+LinkedIn'den takip edin: [https://www.linkedin.com/company/odtu-yzt](https://www.linkedin.com/company/odtu-yzt)
+
 ![](\logo.png)
 
 
